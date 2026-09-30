@@ -100,21 +100,4 @@
 </head>
 <body>
 
-  <div class="glass-container">
-    <h2>Welcome To NANO WEB</h2>
-    <input type="email" placeholder="Email Address">
-    <input type="password" placeholder="Password">
-    <button>Sign In</button>
-
-    <div class="links">
-      <a href="#">Create Account</a>
-      <a href="#">Forgot Password?</a>
-    </div>
-
-    <div class="footer">
-      <p><a href="#">Help</a> • <a href="#">FAQ</a> • <a href="#">Support</a></p>
-    </div>
-  </div>
-<a href="form. html"> sign up</a>
-</body>
-</html>
+ 
